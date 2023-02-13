@@ -1,4 +1,4 @@
-```
+```mermaid
 erDiagram
     BLOG_POSTS ||--|{ BLOG_POST_TAGS : blog_post_tags
     BLOG_POSTS {
